@@ -1,0 +1,114 @@
+[
+    {
+        "_links": {
+          "self": {
+            "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/169?namespace=dynamic-us"
+          }
+        },
+        "id": 169,
+        "name": "Iron Docks",
+        "map": {
+          "name": "Iron Docks",
+          "id": 1195
+        },
+        "zone": {
+          "slug": "iron-docks"
+        },
+        "dungeon": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/journal-instance/558?namespace=static-9.2.7_44981-us"
+          },
+          "name": "Iron Docks",
+          "id": 558
+        },
+        "keystone_upgrades": [
+          {
+            "upgrade_level": 1,
+            "qualifying_duration": 1800000
+          },
+          {
+            "upgrade_level": 2,
+            "qualifying_duration": 1440000
+          },
+          {
+            "upgrade_level": 3,
+            "qualifying_duration": 1080000
+          }
+        ],
+        "is_tracked": true
+      },{
+        "_links": {
+          "self": {
+            "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/197?namespace=dynamic-us"
+          }
+        },
+        "id": 197,
+        "name": "Eye of Azshara",
+        "map": {
+          "name": "Eye of Azshara",
+          "id": 1456
+        },
+        "zone": {
+          "slug": "eye-of-azshara"
+        },
+        "dungeon": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/journal-instance/716?namespace=static-9.2.7_44981-us"
+          },
+          "name": "Eye of Azshara",
+          "id": 716
+        },
+        "keystone_upgrades": [
+          {
+            "upgrade_level": 1,
+            "qualifying_duration": 2100000
+          },
+          {
+            "upgrade_level": 2,
+            "qualifying_duration": 1680000
+          },
+          {
+            "upgrade_level": 3,
+            "qualifying_duration": 1260000
+          }
+        ],
+        "is_tracked": false
+      },{
+        "_links": {
+          "self": {
+            "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/198?namespace=dynamic-us"
+          }
+        },
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "map": {
+          "name": "Darkheart Thicket",
+          "id": 1466
+        },
+        "zone": {
+          "slug": "darkheart-thicket"
+        },
+        "dungeon": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/journal-instance/762?namespace=static-9.2.7_44981-us"
+          },
+          "name": "Darkheart Thicket",
+          "id": 762
+        },
+        "keystone_upgrades": [
+          {
+            "upgrade_level": 1,
+            "qualifying_duration": 1800000
+          },
+          {
+            "upgrade_level": 2,
+            "qualifying_duration": 1440000
+          },
+          {
+            "upgrade_level": 3,
+            "qualifying_duration": 1080000
+          }
+        ],
+        "is_tracked": false
+      }
+]

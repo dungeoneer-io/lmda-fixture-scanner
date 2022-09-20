@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`transformers convertCrealmIndexToMappingFixture 1`] = `
+{
+  "10": 121,
+  "110": 127,
+  "1143": 121,
+  "1148": 127,
+  "1182": 121,
+  "121": 121,
+  "124": 127,
+  "127": 127,
+  "1348": 127,
+  "1358": 127,
+  "1359": 121,
+  "1362": 127,
+  "151": 151,
+  "3": 151,
+  "7": 127,
+}
+`;
+
+exports[`transformers convertDungeonIndexToDungeonMap 1`] = `
+{
+  "169": [
+    1800000,
+    1440000,
+    1080000,
+  ],
+}
+`;
+
+exports[`transformers convertSpecIndexToSpecMap 1`] = `
+{
+  "72": {
+    "c": 1,
+    "r": 3,
+  },
+  "73": {
+    "c": 1,
+    "r": 1,
+  },
+}
+`;

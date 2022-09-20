@@ -1,0 +1,420 @@
+[
+    {
+        "_links": {
+          "self": {
+            "href": "https://us.api.blizzard.com/data/wow/connected-realm/121?namespace=dynamic-us"
+          }
+        },
+        "id": 121,
+        "has_queue": false,
+        "status": {
+          "type": "UP",
+          "name": "Up"
+        },
+        "population": {
+          "type": "HIGH",
+          "name": "High"
+        },
+        "realms": [
+          {
+            "id": 121,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/121?namespace=dynamic-us"
+            },
+            "name": "Azjol-Nerub",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/Denver",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "azjolnerub"
+          },
+          {
+            "id": 1182,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/121?namespace=dynamic-us"
+            },
+            "name": "Muradin",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/Denver",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "muradin"
+          },
+          {
+            "id": 1359,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/121?namespace=dynamic-us"
+            },
+            "name": "Nordrassil",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/Denver",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "nordrassil"
+          },
+          {
+            "id": 10,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/121?namespace=dynamic-us"
+            },
+            "name": "Blackrock",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/Denver",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "blackrock"
+          },
+          {
+            "id": 1143,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/121?namespace=dynamic-us"
+            },
+            "name": "Khaz Modan",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/Denver",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "khaz-modan"
+          }
+        ],
+        "mythic_leaderboards": {
+          "href": "https://us.api.blizzard.com/data/wow/connected-realm/121/mythic-leaderboard/?namespace=dynamic-us"
+        },
+        "auctions": {
+          "href": "https://us.api.blizzard.com/data/wow/connected-realm/121/auctions?namespace=dynamic-us"
+        }
+      },{
+        "_links": {
+          "self": {
+            "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+          }
+        },
+        "id": 127,
+        "has_queue": false,
+        "status": {
+          "type": "UP",
+          "name": "Up"
+        },
+        "population": {
+          "type": "HIGH",
+          "name": "High"
+        },
+        "realms": [
+          {
+            "id": 127,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Firetree",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "firetree"
+          },
+          {
+            "id": 1362,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Drak'Tharon",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "draktharon"
+          },
+          {
+            "id": 1358,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Rivendare",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "rivendare"
+          },
+          {
+            "id": 1348,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Vashj",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "vashj"
+          },
+          {
+            "id": 124,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Spirestone",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "spirestone"
+          },
+          {
+            "id": 1148,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Malorne",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "malorne"
+          },
+          {
+            "id": 7,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Frostwolf",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "frostwolf"
+          },
+          {
+            "id": 110,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+            },
+            "name": "Stormscale",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/New_York",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "stormscale"
+          }
+        ],
+        "mythic_leaderboards": {
+          "href": "https://us.api.blizzard.com/data/wow/connected-realm/127/mythic-leaderboard/?namespace=dynamic-us"
+        },
+        "auctions": {
+          "href": "https://us.api.blizzard.com/data/wow/connected-realm/127/auctions?namespace=dynamic-us"
+        }
+      }, {
+        "_links": {
+          "self": {
+            "href": "https://us.api.blizzard.com/data/wow/connected-realm/151?namespace=dynamic-us"
+          }
+        },
+        "id": 151,
+        "has_queue": false,
+        "status": {
+          "type": "UP",
+          "name": "Up"
+        },
+        "population": {
+          "type": "LOW",
+          "name": "Low"
+        },
+        "realms": [
+          {
+            "id": 151,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/151?namespace=dynamic-us"
+            },
+            "name": "Runetotem",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/Chicago",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "runetotem"
+          },
+          {
+            "id": 3,
+            "region": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+              },
+              "name": "North America",
+              "id": 1
+            },
+            "connected_realm": {
+              "href": "https://us.api.blizzard.com/data/wow/connected-realm/151?namespace=dynamic-us"
+            },
+            "name": "Uther",
+            "category": "United States",
+            "locale": "enUS",
+            "timezone": "America/Chicago",
+            "type": {
+              "type": "NORMAL",
+              "name": "Normal"
+            },
+            "is_tournament": false,
+            "slug": "uther"
+          }
+        ],
+        "mythic_leaderboards": {
+          "href": "https://us.api.blizzard.com/data/wow/connected-realm/151/mythic-leaderboard/?namespace=dynamic-us"
+        },
+        "auctions": {
+          "href": "https://us.api.blizzard.com/data/wow/connected-realm/151/auctions?namespace=dynamic-us"
+        }
+      }
+]
