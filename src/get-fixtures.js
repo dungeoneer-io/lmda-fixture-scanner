@@ -39,7 +39,7 @@ const generateDungeonFixtures = async () => {
         dungeonsToProcess,
         15,
         3,
-        { showBar: true, debug: true }
+        { showBar: true, debug: true, promiseTimeoutMs: 5000 }
     )
     .catch(o => console.log('uncaught exception deep within QUR'));
 
@@ -59,7 +59,7 @@ const generateClassFixtures = async () => {
         specsToProcess,
         15,
         3,
-        { showBar: true, debug: true }
+        { showBar: true, debug: true, promiseTimeoutMs: 5000 }
     )
     .catch(o => console.log('uncaught exception deep within QUR'));
 
@@ -79,7 +79,7 @@ const generateRealmFixtures = async () => {
         itemsToProcess,
         15,
         3,
-        { showBar: true, debug: true }
+        { showBar: true, debug: true, promiseTimeoutMs: 5000 }
     )
     .catch(o => console.log('uncaught exception deep within QUR'));
 
